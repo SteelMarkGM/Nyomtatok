@@ -1,0 +1,35 @@
+h1{
+    color: rgb(83, 73, 73);
+    font: bold;
+    text-align: center;
+    
+}
+h2{
+    color: brown;
+}
+.navbar ul{
+    list-style-type: none;
+    padding: 0px;
+    background-color: gray;
+    margin: 0px;
+    overflow: hidden;
+}
+.navbar a{
+    color: white;
+    padding: 10px;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: black;
+}
+.navbar li{
+    float: left;
+}
+body {
+    background-color: antiquewhite;
+}
+aha{
+    font-size: xx-large;
+}
